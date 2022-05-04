@@ -5,9 +5,8 @@ Making my first text adventure game KrypIn.
 I have Choosen a self-explaining name for our project.
 
 ## Description
-This is a text adventure rpg game. Where you are suppose to be able 
-to chose *Name, *Class, *Fight Monsters and NPC:s, *Talk to NPC:s and Enemies, 
-
+This is a text adventure rpg #### game engine. Where you are suppose to be able 
+to chose *Name, *Fight Monsters (and NPC:s), *Talk to NPC:s (and Enemies) 
 
 ## Visuals
 THis is mostly just text and maybe some ascii art
@@ -46,6 +45,7 @@ Show your appreciation to those who have contributed to the project.
 ## License:
     Mozilla Public License Version 2.0
     ==================================
+    See file 'LICENSE' for more information
 
 
 ## Project status
