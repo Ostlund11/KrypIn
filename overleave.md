@@ -23,8 +23,8 @@ If there is time to implemate story, then do it but it's not a priority.
 	 u == ”up”
 	 d == “down”
 
-#### 3. (Completed but NOT in the way I first intented):
-Titta i omgivningarna = (Part of storyn), kunna titta i den riktning du tänker att gå till och få en lätt överblick (dock ej alltid möjligt):
+#### 3. Look (Completed but NOT in the way I first intented):
+	Be able to look in the direction that you can go to and get an overview
 	- Skriva description till varje plats/rum
 	- Titta or Look <Direction>, get brief info back 
 
