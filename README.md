@@ -6,11 +6,14 @@ I have Choosen a self-explaining name for our project.
 
 ## Description
 This is a text adventure rpg game Engine. Where you are suppose to be able 
-to chose *Name, *Fight Monsters (and NPC?), *Talk to NPC:s (and Enemies?) 
+to chose for example:
+- Name
+- Fight Monsters (and NPC?)
+- Talk to NPC (and Enemies?)
 
 ## Visuals
 THis is mostly just text and maybe some ascii art
-### Tips on where to get ASCII ART:
+#### Tips on where to get ASCII ART:
 - ASCII ART: https://asciiart.website/
 - Check out Asciinema for a more sophisticated method.
 python_color: https://pypi.org/project/colored/
