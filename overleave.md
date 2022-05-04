@@ -4,7 +4,7 @@
 
 It's an old text RPG game, made with python 3.9
 My first idea was that this was going to be a text adventure/RPG, with some puzzles of different kinds (riddles, quest(ions) and keys). The map was going to be randomized for every new game that you started.
-But as the Project/Game evolved, I now see it as Game-engine / template / blueprint, where you can modify it to fit what you kind of game you want to make. So from here and onward there will be examples of what the 'Game' can look like, but I'm just going to add features to it, so the creative phase will be in what kind of new addons to the enginge we can add, rather than make a fully playable game. But with that being said I need to change my initial plan with the sprints. 
+But as the Project/Game evolved, I now see it as a Game-engine / template / blueprint, where you can modify it to fit what you kind of game you want to make. So from here and onward there will be examples of what the 'Game' can look like, but I'm just going to add features to it, so the creative phase will be in what kind of new addons to the enginge we can add, rather than make a fully playable game. But with that being said I need to change my initial plan with the sprints. 
 If there is time to implemate story, then do it but it's not a priority.
 
 
@@ -23,7 +23,7 @@ If there is time to implemate story, then do it but it's not a priority.
 	 u == ”up”
 	 d == “down”
 
-#### 3. (Completed but in the way I first intented):
+#### 3. (Completed but NOT in the way I first intented):
 Titta i omgivningarna = (Part of storyn), kunna titta i den riktning du tänker att gå till och få en lätt överblick (dock ej alltid möjligt):
 	- Skriva description till varje plats/rum
 	- Titta or Look <Direction>, get brief info back 
